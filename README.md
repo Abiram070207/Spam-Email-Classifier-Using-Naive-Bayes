@@ -51,4 +51,4 @@ The dataset is ready for training, so we create a naive classifier using scikit-
 - E-mail   : [abiram.r1010@gmail.com](mailto:abiram.r1010@gmail.com)
 - LinkedIn : https://www.linkedin.com/in/abiram070207/
 
-## Abiram © 2025**
+## Abiram©2025
