@@ -45,14 +45,6 @@ processes like :
 - Section 2 | The Model :<br>
 The dataset is ready for training, so we create a naive classifier using scikit-learn and thin fit it to the data, and finally we evaluate the model by getting accuracy, classification report and confusion matrix<br>
 
-<!-- INSTALLATION -->
-## ➲ Installation
-1. Clone the repo
-   ```sh
-   git clone https://github.com/omaarelsherif/Email-Spam-Detection-Using-Machine-Learning.git
-   ```
-2. Open 'main.ipynb' in Google Colab or VScode and enjoy
-
 <!-- REFERENCES -->
 ## <br>**➲ References**
 These links may help you to better understanding of the project idea and techniques used :
@@ -62,6 +54,6 @@ These links may help you to better understanding of the project idea and techniq
 
 <!-- CONTACT -->
 ## <br>**➲ Contact**
-- E-mail   : [omaarelsherif@gmail.com](mailto:omaarelsherif@gmail.com)
-- LinkedIn : https://www.linkedin.com/in/omaarelsherif/
-- Facebook : https://www.facebook.com/omaarelshereif
+- E-mail   : [abiram.r1010@gmail.com](mailto:abiram.r1010@gmail.com)
+- LinkedIn : https://www.linkedin.com/in/abiram070207/
+-Instagram : @_____abiram_____
